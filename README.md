@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+#### Deprecated GitHub Profile
+
+This GitHub profile is no longer maintained. 
+For the most up-to-date projects and information, please have a look here: [uelkerd](https://github.com/uelkerd).
+
+Thanks for your interest!
+
 <!--
 **deniz-uelker/deniz-uelker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
